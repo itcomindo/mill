@@ -1,10 +1,12 @@
 # MM Internal Links Linker
 
-**Contributors:** [Your Name]  
-**Tags:** internal links, SEO, autolink, carbon fields  
+**Contributors:** Budi Haryono
+**Tags:** internal links, SEO, autolink  
 **Requires at least:** 5.0  
 **Tested up to:** 6.0  
 **Stable tag:** 1.0.0  
+**Website:** https://budiharyono.id/
+**Support:** care.budiharyono@gmail.com
 **License:** GPLv2 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 
