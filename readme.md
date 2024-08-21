@@ -15,6 +15,8 @@ MM Internal Links Linker adalah plugin WordPress yang secara otomatis menambahka
 
 Plugin ini menggunakan Carbon Fields untuk mengatur opsi kata kunci dan tautan yang mudah dikonfigurasi melalui halaman pengaturan tema.
 
+![Screenshot](ss.jpg)
+
 ## Fitur
 
 - **Autolink Kata Kunci:** Secara otomatis menautkan kata kunci tertentu ke URL yang Anda tentukan.
