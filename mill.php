@@ -5,7 +5,7 @@
  * Plugin Name: MM Internal Links Linker
  * Plugin URI: https://github.com/itcomindo/mill
  * Description: A simple plugin to add internal links to your content.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Budi Haryono
  * Author URI: https://budiharyono.id/
  * @package mill

@@ -20,7 +20,7 @@ function mill_plugin_options()
         ->add_fields(
             array(
                 Field::make('textarea', 'kw_link', 'Keyword|Link')
-                    ->set_help_text('Enter the keyword and link separated by a pipe. Example: keyword|https://example.com'),
+                    ->set_help_text('Ketik keyword dan link dipisahkan dengan pipe. Example: keyword|https://example.com. Gunakan baris baru untuk setiap keyword dan link baru. Note: Jangan gunakan spasi, text case sensitive (huru besar dan huruf kecil berpengaruh).'),
                 // Checkbox option open in new tab.
                 Field::make('checkbox', 'kw_new_tab', 'Open in New Tab')
                     ->set_option_value('yes')
